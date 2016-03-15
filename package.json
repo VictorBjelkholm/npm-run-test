@@ -1,0 +1,13 @@
+{
+  "name": "npm_run_test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sayname": "echo \"This guys name happens to be Victor\""
+  },
+  "keywords": [],
+  "author": "Victor Bjelkholm <victorbjelkholm@gmail.com> (https://www.github.com/victorbjelkholm)",
+  "license": "MIT"
+}
